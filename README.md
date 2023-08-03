@@ -16,4 +16,5 @@
 <p align="center">-----</p>
 <p align="center">Hope you enjoy!</p>
 <p align="center">V1.0 - Made With Construct 3</p>
+<p align="center"><i>If you guys want the Construct 3 source code then ask.</i></p>
 </html>
